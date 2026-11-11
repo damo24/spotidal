@@ -2,6 +2,8 @@
 config.yml
 config.yaml
 .session.yml
+.session_dest.yml
+tidal_backup.db
 .claude
 songs not found.txt
 songs_not_found.txt
